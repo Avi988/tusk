@@ -8,5 +8,9 @@ noodles
 pasta
 chicken pizza
 
+pizza
+Beans
+
+
 Thank you!!
 
